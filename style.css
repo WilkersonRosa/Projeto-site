@@ -27,10 +27,7 @@ body{
 
 #corpo h1{
     
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
     align-items: center;
-    font-size: 40px;
     margin: 0;
     line-height: 15px;
     
@@ -51,6 +48,7 @@ body{
     align-items: center;
     flex-direction: column;
     margin: 1rem;
+   
 }
 img.lado {
     float: right;
@@ -71,6 +69,11 @@ main{
 img.voltar{
     
     display: flex;
-    
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
     
 }
