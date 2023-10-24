@@ -59,8 +59,13 @@ body {
 /* Terceira parte da Página */
 #part3{
     background-color: #ffffff;
-    height: 20rem;
+    /* height: 20rem; */
     width: 100%;
+    padding: 1rem;
+}
+
+#part3 img{
+    max-height: fit-content;
 }
 
 /* Rodapé da página */
